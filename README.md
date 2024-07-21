@@ -1,6 +1,6 @@
 # Card Counter for Shotgun Roulette
 
-This application helps you keep track of live and blank rounds in the game Shotgun Roulette.
+This application helps you keep track of live and blank rounds in the game [Shotgun Roulette](https://buckshotroulette.online/steam/).
 
 ## Features
 
