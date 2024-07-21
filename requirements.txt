@@ -1,0 +1,2 @@
+tkinter
+py2app

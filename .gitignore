@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info
+*.egg
+*.eggs
+*.dmg
+*.pkg
+
+# py2app specific
+*.app
+
+# Mac system files
+.DS_Store
+
+# Virtual environment
+venv/
+.env/
