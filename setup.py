@@ -5,6 +5,8 @@ DATA_FILES = []
 OPTIONS = {
     'argv_emulation': True,
     'packages': ['tkinter'],  # List any additional packages your app uses
+    'iconfile': 'icon.icns',  # Optional: Specify an icon file
+
 }
 
 setup(

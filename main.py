@@ -4,7 +4,7 @@ from tkinter import messagebox
 class CardCounterApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("Card Counter for Shotgun Roulette")
+        self.root.title("Card Counter for Buckshot Roulette")
         
         # Initialize variables
         self.num_live = 0
